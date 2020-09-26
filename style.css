@@ -72,6 +72,16 @@
   border-radius: 20%;
   padding: 20px;
 }
+.fa-github {
+  color: rgb(169, 112, 66);
+  border-radius: 20%;
+  padding: 20px;
+}
+.fa-file {
+  color: rgb(169, 112, 66);
+  border-radius: 20%;
+  padding: 20px;
+}
 /* Need help with the website link */
 /* .fa-website {
   color: rgb(169, 112, 66);

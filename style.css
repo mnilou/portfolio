@@ -28,6 +28,15 @@
   margin: 0 auto;
   height: 100%;
 }
+#star-wars-pic {
+  margin: 0 auto;
+  height: 40%;
+
+}
+.btn {
+  background-color: rgb(25, 29, 72);
+  color: rgb(169, 112, 66);
+}
 .row {
   display: flex;
   justify-content: space-between;

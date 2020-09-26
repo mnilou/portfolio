@@ -20,6 +20,8 @@ To install the project you will need internet connection and either a dektop, la
 
 Provide instructions and examples for use. Include screenshots as needed. 
 
+## Screenshot
+<img src="img\portfolio-screenshot.jpg" alt="portfolio screenshot">
 
 ## Credits
 

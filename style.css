@@ -30,9 +30,13 @@
   padding: 1em;
   }
 /*in portfolio page*/
+#portfolio-card {
+  background-color:  rgb(153, 153, 153);
+}
 .card {
   margin: 0 auto;
   height: 100%;
+  background-color:  rgb(153, 153, 153);
 }
 #star-wars-pic {
   margin: 0 auto;
@@ -42,6 +46,7 @@
 .btn {
   background-color: rgb(25, 29, 72);
   color: rgb(169, 112, 66);
+  border-color:  rgb(169, 112, 66);;
 }
 .row {
   display: flex;

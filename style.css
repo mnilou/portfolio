@@ -24,10 +24,14 @@
   text-align: center;
   color: rgb(169, 112, 66);
   background-color: rgb(153, 153, 153);
-  max-width: 500px;
+  /* max-width: 800px; */
   margin: 0 auto;
-  margin-bottom: 50px;
-  padding: 1em;
+  /* margin-bottom: 50px; */
+  /* padding: 1em; */
+  }
+  #icon {
+    color: rgb(25, 29, 72);
+    padding: 1em;
   }
 /*in portfolio page*/
 #portfolio-card {

@@ -6,7 +6,7 @@
 
 ## Description
 
->  Welcome to my portfolio. Please contact me with any questions or references.
+>  Welcome to my portfolio. Please contact me with any questions or references.npm star
 
 ## Screenshots
 <img src="img\home-screenshot.jpg">
